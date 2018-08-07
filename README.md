@@ -28,7 +28,7 @@ Free and powerful Game engine with a huge comunnity
 * **Godot Engine**
 The free, light and opensource game engine made in Argentina
 
-### Source code editors / Entornos de Desarrollo
+### Source code editors / Editores de código
 
 * **Atom**
 The simple but powerful editor developed by Github
