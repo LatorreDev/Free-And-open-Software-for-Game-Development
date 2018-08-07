@@ -20,16 +20,22 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 
 (Este software es multiplataforma)
 
+### Game engines / Motores de videojuegos
 
-You can play the game on:
-[Alien Defender X online](http://davidlatorre.github.io/AlienDefender/)
+### Ide / Entornos de Desarrollo
 
-Your objective is eliminate all the invasors spaceships, protect the earth!!
+### Graphic Design - Animation / Diseño Gráfico - Animación
 
-***Controls***
+* **Krita** 
 
-Put the cursor on the left side of the screen and move the defender, shoot with left click
+[Krita](https://krita.org/)
 
-Also you can play with the keyboard arrows and shoot with the space bar
 
-Music: Play The Game by Shane Ivers - https://www.silvermansound.com
+#### 2D
+
+#### 3D
+
+### Audio
+
+### Writing / Escritura
+
