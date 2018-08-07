@@ -36,6 +36,8 @@ Krita is a professional and powerful free sotware for illustration, also you can
 *Wolwerine animation with krita*
 [Wolwerine animation](https://www.youtube.com/watch?v=wCeIrwkvP68)
 
+![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolwerine Animation Process")
+
 
 
 You can download it on: [Krita](https://krita.org/)
