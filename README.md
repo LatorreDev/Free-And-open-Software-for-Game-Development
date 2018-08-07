@@ -33,10 +33,10 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 
 Krita is a professional and powerful free software for illustration, also you can animate in 2D with it
 
-*Wolwerine animation with krita*
-[Wolwerine animation](https://www.youtube.com/watch?v=wCeIrwkvP68)
+*Wolverine animation with krita*
+[Wolverine animation](https://www.youtube.com/watch?v=wCeIrwkvP68)
 
-![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolwerine Animation Process")
+![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolverine Animation Process")
 
 
 
