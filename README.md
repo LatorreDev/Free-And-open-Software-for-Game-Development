@@ -28,7 +28,7 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 
 * **Krita** 
 
-[Krita](https://krita.org/)
+You can download it on:[Krita](https://krita.org/)
 
 
 #### 2D
