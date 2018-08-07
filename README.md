@@ -28,9 +28,9 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 
 * **Krita** 
 
-![alt text ](Free-And-open-Software-for-Game-Development/Assets/Krita.jpeg"krita Screenshot")
+![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/Krita.jpeg"krita Screenshot")
 
-You can download it on:[Krita](https://krita.org/)
+You can download it on: [Krita](https://krita.org/)
 
 
 #### 2D
