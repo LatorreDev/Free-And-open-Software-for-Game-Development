@@ -23,20 +23,26 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 ### Game engines / Motores de videojuegos
 
 * **Unity**
+Free and powerful Game engine with a huge comunnity
 
 * **Godot Engine**
+The free, light and opensource game engine made in Argentina
 
-### Ide / Entornos de Desarrollo
+### Source code editors / Entornos de Desarrollo
 
 * **Atom**
+The simple but powerful editor developed by Github
 
 * **Visual Studio Code**
+The Microsoft opensource editor
 
 ### Graphic Design - Animation / Diseño Gráfico - Animación
 
 #### 2D
 
-* **Krita** 
+* **Krita**
+
+The definitive illustration and animation Software
 
 ![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/Krita.jpeg "krita Screenshot")
 ===
@@ -48,33 +54,41 @@ Krita is a professional and powerful free software for illustration, also you ca
 
 ![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolverine Animation Process")
 
-
-
 You can download it on: [Krita](https://krita.org/)
 
 * **Gimp**
+The GNU raster graphics editor
 
 * **Aseprite**
+A free and powerful pixel art editor
 
 * **InkScape**
+A powerful vector grahics editor
 
 #### 3D
 
 * **Blender**
+The Powerful computer graphics editor
 
 ### Audio
 
 * **Audacity**
+The light And simple audio editor
 
 * **Ardour**
+The powerful digital audio workstation
 
 * **Sunvox**
+The simple way to create Chiptunes
 
 * **Deflemask**
+A great software to create native music for retro videogame consoles
 
 ### Writing / Escritura
 
 * **Libre Office**
+The free office suite
 
 * **WPS Office**
+A powerful office suite
 
