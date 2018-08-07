@@ -31,6 +31,13 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 ![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/Krita.jpeg "krita Screenshot")
 ===
 
+Krita is a professional and powerful free sotware for illustration, also you can animate in 2D with it
+
+*Wolwerine animation with krita*
+[Wolwerine animation](https://www.youtube.com/watch?v=wCeIrwkvP68)
+
+
+
 You can download it on: [Krita](https://krita.org/)
 
 
