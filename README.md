@@ -1,10 +1,10 @@
-## Free-And-open-Software-for-Game-Development / Software libre y abierto para el desarrollo de videojuegos
+# Free-And-open-Software-for-Game-Development / Software libre y abierto para el desarrollo de videojuegos
 
 A list of FOSS tools and resources to Game Development / una lista de herramientas y recursos libres y de código abierto para el desarrollo de videojuegos
 
 ## Manifesto
 
-# English
+### English
 
 Many resources on the web about game development are supported under privative software, many people don't have the money to pay licenses and prefer to copy the software ilegally, those privative software create dependency on the people, they began to believe that is only an unique to develop their work, using an unique software and operative system putting on theirselves "digtal handcuffs".
 
@@ -12,7 +12,7 @@ I'm a programmer, game developer and artist that "discovered" the another way, a
 
 (This software is cross-platform)
 
-# Spanish
+### Spanish
 
 Muchos recursos en la web sobre el desarrollo de juegos son compatibles con software privativo, muchas personas no tienen el dinero para pagar licencias y prefieren copiar el software ilegalmente, esos programas privativos crean dependencia en las personas, estas comenzaron a creer que hay sólo un único camino para desarrollar su trabajo, utilizando un determinado software y un determinado sistema operativo poniéndose "esposas digitales".
 
