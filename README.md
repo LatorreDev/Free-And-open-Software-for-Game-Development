@@ -22,9 +22,19 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 
 ### Game engines / Motores de videojuegos
 
+* **Unity**
+
+* **Godot Engine**
+
 ### Ide / Entornos de Desarrollo
 
+* **Atom**
+
+* **Visual Studio Code**
+
 ### Graphic Design - Animation / Diseño Gráfico - Animación
+
+#### 2D
 
 * **Krita** 
 
@@ -42,12 +52,29 @@ Krita is a professional and powerful free software for illustration, also you ca
 
 You can download it on: [Krita](https://krita.org/)
 
+* **Gimp**
 
-#### 2D
+* **Aseprite**
+
+* **InkScape**
 
 #### 3D
 
+* **Blender**
+
 ### Audio
 
+* **Audacity**
+
+* **Ardour**
+
+* **Sunvox**
+
+* **Deflemask**
+
 ### Writing / Escritura
+
+* **Libre Office**
+
+* **WPS Office**
 
