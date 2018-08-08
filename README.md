@@ -90,6 +90,15 @@ The simple way to create Chiptunes
 * **Deflemask**
 A great software to create native music for retro videogame consoles
 
+### Video
+
+* **OBS open broad caster software** 
+The best and most complete tool for recording your screen.
+
+* **Openshot** A simple video editor
+
+* **Kdenlive** The powerful video editor
+
 ### Writing / Escritura
 
 * **Libre Office**
