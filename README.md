@@ -72,6 +72,12 @@ The Powerful computer graphics editor
 
 ### Audio
 
+* **Musescore**
+The best mode to compose music in the classic way
+
+* **Tuxguitar**
+The best alternative to guitar tab editors
+
 * **Audacity**
 The light And simple audio editor
 
