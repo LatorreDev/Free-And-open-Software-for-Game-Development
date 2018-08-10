@@ -110,4 +110,8 @@ A powerful office suite
 ### Resources/recursos
 
 * **Open Game Art**
+Free resources for your games (sprites, tiles, music)
+
+* **Open font library**
+Free fonts for your projects
 
