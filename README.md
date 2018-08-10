@@ -115,3 +115,14 @@ Free resources for your games (sprites, tiles, music)
 * **Open font library**
 Free fonts for your projects
 
+### Licensing 
+
+* **GPL**
+The Gnu public license
+
+* **MIT**
+The MIT license
+
+* **Creative Commons**
+For your no software resources (designs, art, books)
+
