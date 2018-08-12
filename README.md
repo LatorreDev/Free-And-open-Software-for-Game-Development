@@ -25,6 +25,17 @@ Soy un programador, desarrollador de juegos y artista que "descubrí" la otra ma
 * **Unity**
 Free and powerful Game engine with a huge comunnity
 
+Unity is a free and very popular engine to create 2D and 3D games for web, consoles, desktop and mobile devices, it uses C# as script language allowing you to create very powerful tools for your games.
+
+It has a lot of free tutorials and resources on the web and a huge community that can help you or use treir resources on your games through the embed store.
+
+Some examples:
+
+
+The GNU/Linux version can be installed on Arch Linux and based distros through AUR using unity-editor, for more information visit [This Link](https://wiki.archlinux.org/index.php/Unity3D)
+
+For another distros you can download the latest package on the last post of [this](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) official forum
+
 * **Godot Engine**
 The free, light and opensource game engine made in Argentina
 
