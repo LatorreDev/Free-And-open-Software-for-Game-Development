@@ -32,9 +32,9 @@ It has a lot of free tutorials and resources on the web and a huge community tha
 Some examples:
 
 
-The GNU/Linux version can be installed on Arch Linux and based distros through AUR using unity-editor, for more information visit [this Link](https://wiki.archlinux.org/index.php/Unity3D)
+The GNU/Linux version can be installed on Arch Linux and based distros through AUR using unity-editor, for more information visit [this Link](https://wiki.archlinux.org/index.php/Unity3D).
 
-For another distros you can download the latest package on the last post of [this](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) official forum
+For another distros you can download the latest package on the last post of [this](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) official forum.
 
 * **Godot Engine**
 The free, light and opensource game engine made in Argentina
