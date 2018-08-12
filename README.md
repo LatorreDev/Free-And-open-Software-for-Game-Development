@@ -49,7 +49,7 @@ The definitive illustration and animation Software
 
 Krita is a professional and powerful free software for illustration, also you can animate in 2D with it
 
-*[Wolverine animation](https://www.youtube.com/watch?v=wCeIrwkvP68)with krita*
+*[Wolverine animation](https://www.youtube.com/watch?v=wCeIrwkvP68) with krita*
 
 ![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolverine Animation Process")
 
