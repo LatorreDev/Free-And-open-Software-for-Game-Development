@@ -10,7 +10,7 @@ Many resources on the web about game development are supported under privative s
 
 I'm a programmer, game developer and artist that "discovered" the another way, a world beyond the privative software, the FOSS (Free and open source software), I want to share the resources and tools that can help people to see beyond.
 
-(This software is cross-platform)
+(This software is cross-platform and can run on OSX-GNU/Linux and Windows)
 
 ### Spanish
 
@@ -18,7 +18,7 @@ Muchos recursos en la web sobre el desarrollo de juegos son compatibles con soft
 
 Soy un programador, desarrollador de juegos y artista que "descubrí" la otra manera, un mundo más allá del software privativo, el software libre y de código abierto FOSS, quiero compartir los recursos y herramientas que pueden ayudar a las personas a ver más allá.
 
-(Este software es multiplataforma)
+(Este software es multiplataforma y puede correr en OSX, GNU/Linux y Windows)
 
 ### Game engines / Motores de videojuegos
 
