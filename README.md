@@ -150,3 +150,6 @@ The MIT license
 
 * **Creative Commons**
 For your no software resources (designs, art, books)
+
+* **BSD License**
+The Berkeley software Distribution License
