@@ -39,6 +39,9 @@ For another distros you can download the latest package on the last post of [thi
 * **Godot Engine**
 The free, light and opensource game engine made in Argentina
 
+* **Gdevelop**
+A elegant and beauty games creator for newbies
+
 ### Source code editors / Editores de código
 
 * **Atom**
