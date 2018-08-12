@@ -27,7 +27,7 @@ Free and powerful Game engine with a huge comunnity
 
 Unity is a free and very popular engine to create 2D and 3D games for web, consoles, desktop and mobile devices, it uses C# as script language allowing you to create very powerful tools for your games.
 
-It has a lot of free tutorials and resources on the web and a huge community that can help you or use treir resources on your games through the embed store.
+It has a lot of free tutorials and resources on the web and a huge community that can help you or you can use treir resources on your games through the embed store.
 
 Some examples:
 
