@@ -129,6 +129,9 @@ The simple way to create non-linear histories
 * **WPS Office**
 A powerful office suite
 
+* **Google Docs**
+Free online editor for your documents
+
 ### Resources/recursos
 
 * **Open Game Art**
