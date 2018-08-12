@@ -75,6 +75,9 @@ The GNU raster graphics editor
 * **Aseprite**
 A free and powerful pixel art editor
 
+* **Piskel**
+The free and online editor for your animated sprites & pixel art
+
 * **InkScape**
 A powerful vector grahics editor
 
