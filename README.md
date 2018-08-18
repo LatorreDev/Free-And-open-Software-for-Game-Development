@@ -118,6 +118,8 @@ The best and most complete tool for recording your screen.
 
 * **Kdenlive** The powerful video editor
 
+* **DaVinci Resolve 15** Freemium Professional and powerful video editor
+
 ### Writing / Escritura
 
 * **Libre Office**
