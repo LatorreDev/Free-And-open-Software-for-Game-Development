@@ -81,6 +81,9 @@ The free and online editor for your animated sprites & pixel art
 * **InkScape**
 A powerful vector grahics editor
 
+* **Font Forge**
+Powerful and FOSS font editor
+
 #### 3D
 
 * **Blender**
