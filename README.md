@@ -42,7 +42,7 @@ The free, light and opensource game engine made in Argentina
 * **Gdevelop**
 A elegant and beauty games creator for newbies
 
-* JavaScript
+* **JavaScript**
 
 JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines)link
 
