@@ -44,7 +44,7 @@ A elegant and beauty games creator for newbies
 
 * **JavaScript**
 
-JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines)link
+JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines) link
 
 Some examples of JavaScript games made with this engines:
 
