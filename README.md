@@ -109,6 +109,9 @@ The light And simple audio editor
 * **Ardour**
 The powerful digital audio workstation
 
+* **LMMS (Linux Multimedia Studio)**
+Free software audio workstation
+
 * **Sunvox**
 The simple way to create Chiptunes
 
