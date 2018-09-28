@@ -119,7 +119,7 @@ The simple way to create Chiptunes
 A great software to create native music for retro videogame consoles
 
 * **Kid3**
-A simple and beatiful audio tagger
+A simple and beautiful audio tagger
 
 ### Video
 
