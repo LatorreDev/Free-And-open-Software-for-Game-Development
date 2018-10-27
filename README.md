@@ -6,9 +6,9 @@ A list of FOSS and Multiplatform tools and resources to Game Development / una l
 
 ### English
 
-Many resources on the web about game development are supported under privative software, many people don't have the money to pay licenses and prefer to copy the software ilegally, those privative software create dependency on the people, they began to believe that is only an unique to develop their work, using an unique software and operative system putting on theirselves "digtal handcuffs".
+Many resources on the web about game development are supported under privative software, many people don't have the money to pay licenses and prefer to copy the software ilegally, those privative software create dependency on the people, they began to believe that there is only a way to develop their work, using an unique software and operative system putting on theirselves "digtal handcuffs".
 
-I'm a programmer, game developer and artist that "discovered" the another way, a world beyond the privative software, the FOSS (Free and open source software), I want to share the resources and tools that can help people to see beyond.
+I'm a programmer, game developer and artist that "discovered" another way, a world beyond the privative software, the FOSS (Free and open source software), I want to share the resources and tools that can help people to see beyond.
 
 (This software is cross-platform and can run on OSX-GNU/Linux and Windows)
 
@@ -123,7 +123,7 @@ A simple and beautiful audio tagger
 
 ### Video
 
-* **OBS open broad caster software** 
+* **OBS open broad caster software**
 The best and most complete tool for recording your screen.
 
 * **Openshot** A simple video editor
@@ -154,7 +154,7 @@ Free resources for your games (sprites, tiles, music)
 * **Open font library**
 Free fonts for your projects
 
-### Licensing 
+### Licensing
 
 * **GPL**
 The Gnu public license
