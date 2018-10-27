@@ -46,6 +46,10 @@ A elegant and beauty games creator for newbies
 
 JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines) link
 
+ * **Blender Game Engine**
+The Blender Game Engine (BGE) is Blender’s tool for real-time projects, from architectural visualizations and simulations to games.
+(https://docs.blender.org/manual/en/latest/game_engine/index.html) link
+
 Some examples of JavaScript games made with this engines:
 
 ### Source code editors / Editores de código
