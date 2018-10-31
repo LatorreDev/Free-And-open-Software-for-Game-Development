@@ -1,6 +1,6 @@
 # Free-And-open-Software-for-Game-Development / Software libre y abierto para el desarrollo de videojuegos
 
-A list of FOSS and Multiplatform tools and resources to Game Development / una lista de herramientas y recursos libre, de código abierto y multiplataforma para el desarrollo de videojuegos
+A list of FOSS and Multiplatform tools and resources for Game Development / una lista de herramientas y recursos libre, de código abierto y multiplataforma para el desarrollo de videojuegos
 
 ## Manifesto
 
