@@ -16,7 +16,7 @@ I'm a programmer, game developer and artist that "discovered" another way, a wor
 
 Muchos recursos en la web sobre el desarrollo de juegos son compatibles con software privativo, muchas personas no tienen el dinero para pagar licencias y prefieren copiar el software ilegalmente, esos programas privativos crean dependencia en las personas, estas comenzaron a creer que hay sólo un único camino para desarrollar su trabajo, utilizando un determinado software y un determinado sistema operativo poniéndose "esposas digitales".
 
-Soy un programador, desarrollador de juegos y artista que "descubrí" la otra manera, un mundo más allá del software privativo, el software libre y de código abierto FOSS, quiero compartir los recursos y herramientas que pueden ayudar a las personas a ver más allá.
+Soy un programador, desarrollador de juegos y artista que "descubrió" la otra manera, un mundo más allá del software privativo, el software libre y de código abierto FOSS. Quiero compartir los recursos y herramientas que pueden ayudar a las personas a ver más allá.
 
 (Este software es multiplataforma y puede correr en OSX, GNU/Linux y Windows)
 
