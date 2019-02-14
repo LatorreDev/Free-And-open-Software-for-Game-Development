@@ -139,6 +139,8 @@ The best and most complete tool for recording your screen.
 
 * **DaVinci Resolve 15** Freemium Professional and powerful video editor
 
+* **Natron** Open Source Compositing Software For VFX and Motion Graphics
+ 
 ### Writing / Escritura
 
 * **Libre Office**
