@@ -20,21 +20,13 @@ Soy un programador, desarrollador de juegos y artista que "descubrió" la otra m
 
 (Este software es multiplataforma y puede correr en OSX, GNU/Linux y Windows)
 
+### FAQ / Preguntas frecuentes
+
+* You won't found here game engines such as Unity or Unreal Engine, Office suites such as WPS of google docs, etc. I talk about free as freedom, not "Is free, you must not pay anything", you can't see that software source code.
+
+* No encontrás aquí motores de videojuegos como Unity o Unreal Engine, suites de oficina como WPS o google docs, etc. Hablo de libre en el sentido de libertad, no de "gratis, no tienes que pagar nada", no puedes ver el código fuente de ese software.
+
 ### Game engines / Motores de videojuegos
-
-* **Unity**
-Free and powerful Game engine with a huge comunnity
-
-Unity is a free and very popular engine to create 2D and 3D games for web, consoles, desktop and mobile devices, it uses C# as script language allowing you to create very powerful tools for your games.
-
-It has a lot of free tutorials and resources on the web and a huge community that can help you or you can use treir resources on your games through the embed store.
-
-Some examples:
-
-
-The GNU/Linux version can be installed on Arch Linux and based distros through AUR using unity-editor, for more information visit [this Link](https://wiki.archlinux.org/index.php/Unity3D).
-
-For another distros you can download the latest package on the last post of [this](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/) official forum.
 
 * **Godot Engine**
 The free, light and opensource game engine made in Argentina
@@ -137,8 +129,6 @@ The best and most complete tool for recording your screen.
 
 * **Kdenlive** The powerful video editor
 
-* **DaVinci Resolve 15** Freemium Professional and powerful video editor
-
 * **Natron** Open Source Compositing Software For VFX and Motion Graphics
  
 ### Writing / Escritura
@@ -148,12 +138,6 @@ The free office suite
 
 * **Twine**
 The simple way to create non-linear histories
-
-* **WPS Office**
-A powerful office suite
-
-* **Google Docs**
-Free online editor for your documents
 
 ### Resources/recursos
 
