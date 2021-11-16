@@ -133,7 +133,7 @@ The best and most complete tool for recording your screen.
 * **Kdenlive** The powerful video editor
 
 * **Natron** Open Source Compositing Software For VFX and Motion Graphics
- 
+
 ### Writing / Escritura
 
 * **Libre Office**
@@ -141,6 +141,9 @@ The free office suite
 
 * **Twine**
 The simple way to create non-linear histories
+
+* **Joplin**
+Note taking app similar to evernote, works offline and can sync with clouds such as Dropbox or Onedrive
 
 ### Resources/recursos
 
