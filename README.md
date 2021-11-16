@@ -94,6 +94,9 @@ Powerful and FOSS font editor
 * **Blender**
 The Powerful computer graphics editor
 
+* **Goxel**
+Voxel editor
+
 ### Audio
 
 * **Musescore**
