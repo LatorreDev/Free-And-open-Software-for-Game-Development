@@ -14,26 +14,35 @@ Soy un programador, desarrollador de juegos y artista que "descubrió" la otra m
 
 ### Preguntas frecuentes
 
-
 * No encontrás aquí motores de videojuegos como Unity, suites de oficina como WPS o google docs, etc. Hablo de libre en el sentido de libertad, no de "gratis, no tienes que pagar nada", no puedes ver el código fuente de ese software.
 
 ### Motores de videojuegos
 
 * **Godot Engine**
 Motor de código abierto, ligero y gratuito creado en Argentina
+Código fuente:
+Licencia:
 
 * **Gdevelop**
 A elegant and beauty games creator for newbies
+Código fuente:
+Licencia:
 
 * **Unreal Engine**
 El famoso y potente motor de videojuegos enfocado en realismo
+Código fuente:
+Licencia:
 
 * **JavaScript**
 Javascript tiene una gran cantidad de motores de videojuegos, puedes explorarlos en [este](https://github.com/collections/javascript-game-engines) link
+Código fuente:
+Licencia:
 
  * **Blender Game Engine**
 El Blender Game Engine (BGE) is una herramienta de Blender para pryectos en tiempo real desde proyectos arquitectonicos, visualizaciones, simulaciones y juegos
 Puedes encontrar más info [este](https://docs.blender.org/manual/en/latest/game_engine/index.html) link 
+Código fuente:
+Licencia:
 
 ### Source code editors / Editores de código
 
