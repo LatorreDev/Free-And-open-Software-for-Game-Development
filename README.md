@@ -24,7 +24,7 @@ Código fuente:
 Licencia:
 
 * **Gdevelop**
-A elegant and beauty games creator for newbies
+Un elegante y hermoso motor de videojuegos para creadores con poca experiencia
 Código fuente:
 Licencia:
 
