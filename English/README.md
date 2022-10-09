@@ -104,6 +104,9 @@ Voxel editor
 
 ### Audio
 
+* **Famistudio**
+  Open source program to compose music and emulate NES sound engine
+
 * **Musescore**
 The best mode to compose music in the classic way
 
