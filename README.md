@@ -1,8 +1,16 @@
-# Software libre y abierto para el desarrollo de videojuegos
+# Free-And-open-Software-for-Game-Development / Software libre y abierto para el desarrollo de videojuegos
 
-Lista de herramientas y recursos libre, de código abierto y multiplataforma para el desarrollo de videojuegos
+A list of FOSS and Multiplatform tools and resources for Game Development / una lista de herramientas y recursos libre, de código abierto y multiplataforma para el desarrollo de videojuegos
 
 ## Manifesto
+
+### English
+
+Many resources on the web about game development are supported under privative software, many people don't have the money to pay licenses and prefer to copy the software ilegally, those privative software create dependency on the people, they began to believe that there is only a way to develop their work, using an unique software and operative system putting on theirselves "digtal handcuffs".
+
+I'm a programmer, game developer and artist that "discovered" another way, a world beyond the privative software, the FOSS (Free and open source software), I want to share the resources and tools that can help people to see beyond.
+
+(This software is cross-platform and can run on OSX-GNU/Linux and Windows)
 
 ### Spanish
 
@@ -12,84 +20,86 @@ Soy un programador, desarrollador de juegos y artista que "descubrió" la otra m
 
 (Este software es multiplataforma y puede correr en OSX, GNU/Linux y Windows)
 
-### Preguntas frecuentes
+### FAQ / Preguntas frecuentes
+
+* You won't found here game engines such as Unity, Office suites such as WPS of google docs, etc. I talk about free as freedom, not "Is free, you must not pay anything", you can't see that software source code.
 
 * No encontrás aquí motores de videojuegos como Unity, suites de oficina como WPS o google docs, etc. Hablo de libre en el sentido de libertad, no de "gratis, no tienes que pagar nada", no puedes ver el código fuente de ese software.
 
-### Motores de videojuegos
+### Game engines / Motores de videojuegos
+
+* **Blender Game Engine**
+The Blender Game Engine (BGE) is Blender’s tool for real-time projects, from architectural visualizations and simulations to games.
+[Blender Game engine](https://docs.blender.org/manual/en/latest/game_engine/index.html)
 
 * **Godot Engine**
-Motor de código abierto, ligero y gratuito creado en Argentina
-Código fuente:
-Licencia:
+The free, light and opensource game engine made in Argentina
+
+Source code available in: [Godot Source Code](https://github.com/godotengine/godot)
 
 * **Gdevelop**
-Un elegante y hermoso motor de videojuegos para creadores con poca experiencia
-Código fuente:
-Licencia:
-
-* **Unreal Engine**
-El famoso y potente motor de videojuegos enfocado en realismo
-Código fuente:
-Licencia:
+A elegant and beauty games creator for newbies
 
 * **JavaScript**
-Javascript tiene una gran cantidad de motores de videojuegos, puedes explorarlos en [este](https://github.com/collections/javascript-game-engines) link
-Código fuente:
-Licencia:
 
- * **Blender Game Engine**
-El Blender Game Engine (BGE) is una herramienta de Blender para pryectos en tiempo real desde proyectos arquitectonicos, visualizaciones, simulaciones y juegos
-Puedes encontrar más info [este](https://docs.blender.org/manual/en/latest/game_engine/index.html) link 
-Código fuente:
-Licencia:
+JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines) link
+
+Some examples of JavaScript games made with this engines:
+
+* **Unreal Engine**
+The famous and powerful realistic game engine
 
 ### Source code editors / Editores de código
 
 * **Atom**
 The simple but powerful editor developed by Github
 
-* **Visual Studio Code**
-The Microsoft opensource editor
+* **Emacs**
+  Classic editor from the terminal
 
 * **Notepad++**
 Is an open source replacement for the original Notepad program (which comes with Windows) and supports several languages. Even though it is built for Microsoft Windows, it can also run on Linux, Unix, BSD and Mac OS X (using Wine).
+
+* **Vim**
+  Classic and powerfol code editor from the terminal
+
+* **Visual Studio Code**
+The Microsoft opensource editor
 
 ### Graphic Design - Animation / Diseño Gráfico - Animación
 
 #### 2D
 
+* **Aseprite**
+A free and powerful pixel art editor
+
+* **Font Forge**
+Powerful and FOSS font editor
+
+* **Gimp**
+The GNU raster graphics editor
+
+* **InkScape**
+A powerful vector graphics editor
+
 * **Krita**
 
 The definitive illustration and animation Software
 
-![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/Krita.jpeg "krita Screenshot")
-===
+![Krita Screenshot](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/Krita.jpeg"krita screenshot")
 
 Krita is a professional and powerful free software for illustration, also you can animate in 2D with it
 
 *[Wolverine animation](https://www.youtube.com/watch?v=wCeIrwkvP68) with krita*
 
-![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolverine Animation Process")
+![Wolverine Animation Process](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolverine Animation Process")
 
 You can download it on: [Krita](https://krita.org/)
-
-* **Gimp**
-The GNU raster graphics editor
-
-* **Aseprite**
-A free and powerful pixel art editor
 
 * **Piskel**
 The free and online editor for your animated sprites & pixel art
 
-* **InkScape**
-A powerful vector graphics editor
-
-* **Font Forge**
-Powerful and FOSS font editor
-
-#### 3D
+## 3D
 
 * **Blender**
 The Powerful computer graphics editor
@@ -99,42 +109,48 @@ Voxel editor
 
 ### Audio
 
-* **Musescore**
-The best mode to compose music in the classic way
-
-* **Tuxguitar**
-The best alternative to guitar tab editors
-
 * **Audacity**
 The light And simple audio editor
 
 * **Ardour**
 The powerful digital audio workstation
 
-* **LMMS (Linux Multimedia Studio)**
-Free software audio workstation
-
-* **Sunvox**
-The simple way to create Chiptunes
-
 * **Deflemask**
 A great software to create native music for retro videogame consoles
+
+* **Famistudio**
+Open source program to compose music and emulate NES sound engine
 
 * **Kid3**
 A simple and beautiful audio tagger
 
+* **LMMS (Linux Multimedia Studio)**
+Free software audio workstation
+
+* **Musescore**
+The best mode to compose music in the classic way
+
+* **Tuxguitar**
+The best alternative to guitar tab editors
+
+* **Sunvox**
+The simple way to create Chiptunes
+
 ### Video
+
+* **Kdenlive** The powerful video editor
+
+* **Natron** Open Source Compositing Software For VFX and Motion Graphics
 
 * **OBS open broad caster software**
 The best and most complete tool for recording your screen.
 
 * **Openshot** A simple video editor
 
-* **Kdenlive** The powerful video editor
-
-* **Natron** Open Source Compositing Software For VFX and Motion Graphics
-
 ### Writing / Escritura
+
+* **Joplin**
+Note taking app similar to evernote, works offline and can sync with clouds such as Dropbox or Onedrive
 
 * **Libre Office**
 The free office suite
@@ -142,27 +158,24 @@ The free office suite
 * **Twine**
 The simple way to create non-linear histories
 
-* **Joplin**
-Note taking app similar to evernote, works offline and can sync with clouds such as Dropbox or Onedrive
-
 ### Resources/recursos
-
-* **Open Game Art**
-Free resources for your games (sprites, tiles, music)
 
 * **Open font library**
 Free fonts for your projects
 
+* **Open Game Art**
+Free resources for your games (sprites, tiles, music)
+
 ### Licensing
+
+* **Creative Commons**
+For your no software resources (designs, art, books)
 
 * **GPL**
 The Gnu public license
 
 * **MIT**
 The MIT license
-
-* **Creative Commons**
-For your no software resources (designs, art, books)
 
 * **BSD License**
 The Berkeley software Distribution License
