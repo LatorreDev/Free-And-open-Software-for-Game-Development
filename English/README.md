@@ -28,6 +28,10 @@ Soy un programador, desarrollador de juegos y artista que "descubrió" la otra m
 
 ### Game engines / Motores de videojuegos
 
+* **Blender Game Engine**
+The Blender Game Engine (BGE) is Blender’s tool for real-time projects, from architectural visualizations and simulations to games.
+[Blender Game engine](https://docs.blender.org/manual/en/latest/game_engine/index.html)
+
 * **Godot Engine**
 The free, light and opensource game engine made in Argentina
 
@@ -36,65 +40,66 @@ Source code available in: [Godot Source Code](https://github.com/godotengine/god
 * **Gdevelop**
 A elegant and beauty games creator for newbies
 
-* **Unreal Engine**
-The famous and powerful realistic game engine
-
 * **JavaScript**
 
 JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines) link
 
- * **Blender Game Engine**
-The Blender Game Engine (BGE) is Blender’s tool for real-time projects, from architectural visualizations and simulations to games.
-(https://docs.blender.org/manual/en/latest/game_engine/index.html) link
-
 Some examples of JavaScript games made with this engines:
+
+* **Unreal Engine**
+The famous and powerful realistic game engine
 
 ### Source code editors / Editores de código
 
 * **Atom**
 The simple but powerful editor developed by Github
 
-* **Visual Studio Code**
-The Microsoft opensource editor
+* **Emacs**
+  Classic editor from the terminal
 
 * **Notepad++**
 Is an open source replacement for the original Notepad program (which comes with Windows) and supports several languages. Even though it is built for Microsoft Windows, it can also run on Linux, Unix, BSD and Mac OS X (using Wine).
+
+* **Vim**
+  Classic and powerfol code editor from the terminal
+
+* **Visual Studio Code**
+The Microsoft opensource editor
 
 ### Graphic Design - Animation / Diseño Gráfico - Animación
 
 #### 2D
 
+* **Aseprite**
+A free and powerful pixel art editor
+
+* **Font Forge**
+Powerful and FOSS font editor
+
+* **Gimp**
+The GNU raster graphics editor
+
+* **InkScape**
+A powerful vector graphics editor
+
 * **Krita**
 
 The definitive illustration and animation Software
 
-![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/Krita.jpeg "krita Screenshot")
-===
+![Krita Screenshot](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/Krita.jpeg"krita screenshot")
 
 Krita is a professional and powerful free software for illustration, also you can animate in 2D with it
 
 *[Wolverine animation](https://www.youtube.com/watch?v=wCeIrwkvP68) with krita*
 
-![alt text ](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolverine Animation Process")
+![Wolverine Animation Process](https://github.com/DavidLatorre/Free-And-open-Software-for-Game-Development/blob/master/Assets/krita_wolwerine_screenshot.jpeg "wolverine Animation Process")
 
 You can download it on: [Krita](https://krita.org/)
-
-* **Gimp**
-The GNU raster graphics editor
-
-* **Aseprite**
-A free and powerful pixel art editor
 
 * **Piskel**
 The free and online editor for your animated sprites & pixel art
 
-* **InkScape**
-A powerful vector graphics editor
-
-* **Font Forge**
-Powerful and FOSS font editor
-
-#### 3D
+## 3D
 
 * **Blender**
 The Powerful computer graphics editor
@@ -104,8 +109,23 @@ Voxel editor
 
 ### Audio
 
+* **Audacity**
+The light And simple audio editor
+
+* **Ardour**
+The powerful digital audio workstation
+
+* **Deflemask**
+A great software to create native music for retro videogame consoles
+
 * **Famistudio**
-  Open source program to compose music and emulate NES sound engine
+Open source program to compose music and emulate NES sound engine
+
+* **Kid3**
+A simple and beautiful audio tagger
+
+* **LMMS (Linux Multimedia Studio)**
+Free software audio workstation
 
 * **Musescore**
 The best mode to compose music in the classic way
@@ -113,36 +133,24 @@ The best mode to compose music in the classic way
 * **Tuxguitar**
 The best alternative to guitar tab editors
 
-* **Audacity**
-The light And simple audio editor
-
-* **Ardour**
-The powerful digital audio workstation
-
-* **LMMS (Linux Multimedia Studio)**
-Free software audio workstation
-
 * **Sunvox**
 The simple way to create Chiptunes
 
-* **Deflemask**
-A great software to create native music for retro videogame consoles
-
-* **Kid3**
-A simple and beautiful audio tagger
-
 ### Video
+
+* **Kdenlive** The powerful video editor
+
+* **Natron** Open Source Compositing Software For VFX and Motion Graphics
 
 * **OBS open broad caster software**
 The best and most complete tool for recording your screen.
 
 * **Openshot** A simple video editor
 
-* **Kdenlive** The powerful video editor
-
-* **Natron** Open Source Compositing Software For VFX and Motion Graphics
-
 ### Writing / Escritura
+
+* **Joplin**
+Note taking app similar to evernote, works offline and can sync with clouds such as Dropbox or Onedrive
 
 * **Libre Office**
 The free office suite
@@ -150,27 +158,24 @@ The free office suite
 * **Twine**
 The simple way to create non-linear histories
 
-* **Joplin**
-Note taking app similar to evernote, works offline and can sync with clouds such as Dropbox or Onedrive
-
 ### Resources/recursos
-
-* **Open Game Art**
-Free resources for your games (sprites, tiles, music)
 
 * **Open font library**
 Free fonts for your projects
 
+* **Open Game Art**
+Free resources for your games (sprites, tiles, music)
+
 ### Licensing
+
+* **Creative Commons**
+For your no software resources (designs, art, books)
 
 * **GPL**
 The Gnu public license
 
 * **MIT**
 The MIT license
-
-* **Creative Commons**
-For your no software resources (designs, art, books)
 
 * **BSD License**
 The Berkeley software Distribution License
