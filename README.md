@@ -28,29 +28,37 @@
 
 - __Blender Game Engine__
 The Blender Game Engine (BGE) is Blender’s tool for real-time projects, from architectural visualizations and simulations to games.
-[Blender Game engine](https://docs.blender.org/manual/en/latest/game_engine/index.html)
+[Blender Game engine](https://upbge.org/#/)
 
-- __Godot Engine__
-The free, light and opensource game engine made in Argentina.  
-
-    __Source code available in:__ [Godot Source Code](https://github.com/godotengine/godot)
+    __Source code available in / Código fuente disponible en:__ [Blender Github](https://github.com/blender/blender)
 
 - __Gdevelop__
 A elegant and beauty games creator for newbies
 
+    __Source code available in / Código fuente disponible en:__ [Gdevelop Github](https://github.com/4ian/GDevelop)
+
+- __Godot Engine__
+The free, light and opensource game engine made in Argentina.  
+
+    __Source code available in / Código fuente disponible en:__ [Godot Github](https://github.com/godotengine/godot)
+
 - __JavaScript__
 
-JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines) link
+    JavaScript has a lot of game engines, you can explore them on [this](https://github.com/collections/javascript-game-engines) link
 
-Some examples of JavaScript games made with this engines:
+    Some examples of JavaScript games made with this engines:
 
 - __Unreal Engine__
 The famous and powerful realistic game engine
+
+    __Source code available in / Código fuente disponible en:__ [Unreal Engine Github](https://github.com/EpicGames/UnrealEngine)
 
 ### Source code editors / Editores de código
 
 - __Atom__
 The simple but powerful editor developed by Github
+
+    __Source code available in / Código fuente disponible en:__ [Atom Github](https://github.com/atom/atom)
 
 - __Emacs__
   Classic editor from the terminal
@@ -62,7 +70,7 @@ Is an open source replacement for the original Notepad program (which comes with
   Classic and powerfol code editor from the terminal
 
 - __Visual Studio Code__
-The Microsoft opensource editor
+The Microsoft opensource code editor
 
 ### Graphic Design - Animation / Diseño Gráfico - Animación
 
