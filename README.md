@@ -97,6 +97,9 @@ You can download it on: [Krita](https://krita.org/)
 - __Piskel__
 The free and online editor for your animated sprites & pixel art
 
+- __Pixelorama__
+An opensource pixel art editor made in Godot
+
 #### 3D
 
 - __Blender__
