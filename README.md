@@ -59,7 +59,7 @@ The simple but powerful editor developed by Github
 Is an open source replacement for the original Notepad program (which comes with Windows) and supports several languages. Even though it is built for Microsoft Windows, it can also run on Linux, Unix, BSD and Mac OS X (using Wine).
 
 - __Vim__
-  Classic and powerfol code editor from the terminal
+  Classic and powerful code editor from the terminal
 
 - __Visual Studio Code__
 The Microsoft opensource editor
